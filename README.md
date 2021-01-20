@@ -37,7 +37,7 @@ The course will be graded based on the following components:
 
 ### Code of Conduct
 
-As students will often be asked to share and discuss their work, and work on assignments with their peers, the code of conduct \textbf{MUST} be followed. Students are expected to be highly respectful of their peers during and outside of class to help foster an inclusive environment where everyone is comfortable making mistakes and contributing. When working as a group, it is every group member's responsibility to make sure everyone has input and understands the answers given.
+As students will often be asked to share and discuss their work, and work on assignments with their peers, the code of conduct **MUST** be followed. Students are expected to be highly respectful of their peers during and outside of class to help foster an inclusive environment where everyone is comfortable making mistakes and contributing. When working as a group, it is every group member's responsibility to make sure everyone has input and understands the answers given.
 
 ## Schedule
 
@@ -45,9 +45,9 @@ As students will often be asked to share and discuss their work, and work on ass
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | | | | | |
- | | | | | |
- | | | | | |
+ | 1/25: Introduction to Data Science and this course| [What is Data Science?](https://www.oreilly.com/library/view/doing-data-science/9781449363871/ch01.html)| HW1 | 1/29| |
+ | 1/27:| | | | |
+ | 1/29: | | | | |
  
  
  ### Important USF Dates
