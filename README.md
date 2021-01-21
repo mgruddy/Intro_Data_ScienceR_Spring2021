@@ -39,6 +39,11 @@ The course will be graded based on the following components:
 
 As students will often be asked to share and discuss their work, and work on assignments with their peers, the code of conduct **MUST** be followed. Students are expected to be highly respectful of their peers during and outside of class to help foster an inclusive environment where everyone is comfortable making mistakes and contributing. When working as a group, it is every group member's responsibility to make sure everyone has input and understands the answers given.
 
+### Recorded Lectures
+
+Recorded lectures are available to enrolled students. If you are unable to attend the live lecture, you must submit a Lecture Reflection Form (found [here](https://docs.google.com/forms/d/e/1FAIpQLSeJCWoDAdso9OJbMcQ7jRC3QZvakFfqTIBBxaW-DUqd4kNXWA/viewform?usp=sf_link)) to receive participation credit.
+
+
 ## Schedule
 
 **Week 1**
