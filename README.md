@@ -50,10 +50,17 @@ Recorded lectures are available to enrolled students. If you are unable to atten
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 1/25: Introduction to Data Science and this course| [What is Data Science?](https://www.oreilly.com/library/view/doing-data-science/9781449363871/ch01.html)| HW1 | 1/29| |
- | 1/27:| | | | |
- | 1/29: | | | | |
+ | 1/25: Introduction to Data Science and this course| [What is Data Science?](https://www.oreilly.com/library/view/doing-data-science/9781449363871/ch01.html)| [HW1](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW1.pdf) | 1/29| |
+ | 1/27: Using R in Jupyter Notebook |[R for Jupyter Notebook](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/)|Install software| 1/29| |
+ | 1/29: R Basics| |HW2|2/5| |
  
+ **Week 2**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+ | 2/1: | |  | | |
+ | 2/3: | | | | |
+ | 2/5: | | | | |
  
  ### Important USF Dates
  
