@@ -51,14 +51,14 @@ Recorded lectures are available to enrolled students. If you are unable to atten
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
  | 1/25: [Introduction to Data Science and this course](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Slides/1_25Lecture.pdf)| [What is Data Science?](https://www.oreilly.com/library/view/doing-data-science/9781449363871/ch01.html)| [HW1](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW1.pdf) | 1/29| |
- | 1/27: [Using R in Jupyter Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Slides/Jan27Slides_Getting_Started.pdf) |[R for Jupyter Notebook](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/)|Install software| 1/29| [Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Jan27Notebooks_Getting_Started.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Jan27Notebooks_Getting_Started.pdf)|
- | 1/29: R Basics| [Chapter 4: Basics](https://r4ds.had.co.nz/workflow-basics.html)|[HW2](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW2.pdf)|2/5|[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Jan29Notebooks_R_Basics.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Jan29Notebooks_R_Basics.pdf)|
+ | 1/27: [Using R in Jupyter Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Slides/Jan27Slides_Getting_Started.pdf) |[R for Jupyter Notebook](https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/)|Install software| 1/29| [Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Jan27Notebook_Getting_Started.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Jan27Notebook_Getting_Started.pdf)|
+ | 1/29: R Basics| [Chapter 4: Basics](https://r4ds.had.co.nz/workflow-basics.html)|[HW2](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW2.pdf)|2/5|[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Jan29Notebook_R_Basics.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Jan29Notebook_R_Basics.pdf)|
  
  **Week 2**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
- | 2/1: Data visualization & ggplot2 | [Section 3.1 - 3.4](https://r4ds.had.co.nz/data-visualisation.html#introduction-1)| [HW3](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW3.pdf)| 2/5 | |
+ | 2/1: [Data visualization & ggplot2](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Slides/Feb1Slides_DV1.pdf) | [Section 3.1 - 3.4](https://r4ds.had.co.nz/data-visualisation.html#introduction-1)| [HW3](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW3.pdf)| 2/5 | [Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Feb1Notebook_DV1.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Feb1Notebook_DV1.pdf)|
  | 2/3: More plotting! | [Section 3.5, 3.6](https://r4ds.had.co.nz/data-visualisation.html#facets) | | | |
  | 2/5: Graphics grammar & more | [Section 3.7 - 3.10](https://r4ds.had.co.nz/data-visualisation.html#statistical-transformations) | | | |
  
