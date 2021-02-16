@@ -63,13 +63,21 @@ Recorded lectures are available to enrolled students. If you are unable to atten
  | 2/5: Graphics grammar & more | [Section 3.7 - 3.10](https://r4ds.had.co.nz/data-visualisation.html#statistical-transformations) | [HW4](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW3.pdf) | 2/12 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Feb5Notebook_even_more_ggplot.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Feb5Notebook_even_more_ggplot.pdf)|
  
  
- **Week 2**
+ **Week 3**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 2/8: Subsetting data | [Sections 5.1, 5.2, 5.4](https://r4ds.had.co.nz/transform.html#transform)| | | |
+| 2/8: Subsetting data | [Sections 5.1, 5.2, 5.4](https://r4ds.had.co.nz/transform.html#transform)|  |  | |
 | 2/10: Data Transformation with dplyr I | [Sections 5.3, 5.5](https://r4ds.had.co.nz/transform.html#arrange-rows-with-arrange)| | | |
-| 2/12: Data Transformation with dplyr II | [Section 5.6, 5.7](https://r4ds.had.co.nz/transform.html#grouped-summaries-with-summarise)| | | |
+| 2/12: Data Transformation with dplyr II | [Section 5.6, 5.7](https://r4ds.had.co.nz/transform.html#grouped-summaries-with-summarise)| HW5 | 2/19| |
+
+**Week 3**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| No Class | | | | |
+| 2/17: Exploratory Data Analysis I | [Chapter 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)| | | |
+| 2/19: Explorartory Data Analysis II | [Chapter 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)| | | |
  
  
  ### Important USF Dates
