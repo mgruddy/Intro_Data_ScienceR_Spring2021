@@ -67,17 +67,25 @@ Recorded lectures are available to enrolled students. If you are unable to atten
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 2/8: Subsetting data | [Sections 5.1, 5.2, 5.4](https://r4ds.had.co.nz/transform.html#transform)|  |  | |
-| 2/10: Data Transformation with dplyr I | [Sections 5.3, 5.5](https://r4ds.had.co.nz/transform.html#arrange-rows-with-arrange)| | | |
-| 2/12: Data Transformation with dplyr II | [Section 5.6, 5.7](https://r4ds.had.co.nz/transform.html#grouped-summaries-with-summarise)| HW5 | 2/19| |
+| 2/8: Subsetting data | [Sections 5.1, 5.2, 5.4](https://r4ds.had.co.nz/transform.html#transform)|  |  | [Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Feb8Notebook_subsetting_data.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Feb8Notebook_subsetting_data.pdf)|
+| 2/10: Data Transformation with dplyr I | [Sections 5.3, 5.5](https://r4ds.had.co.nz/transform.html#arrange-rows-with-arrange)| | | [Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Feb10Notebook_more_data_transformation.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Feb10Notebook_more_data_transformation.pdf)|
+| 2/12: Data Transformation with dplyr II | [Section 5.6, 5.7](https://r4ds.had.co.nz/transform.html#grouped-summaries-with-summarise)| [HW5](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW5.pdf) | 2/19| [Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Feb12Notebook_summaries_and_grouping.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Feb12Notebook_summaries_and_grouping.pdf)|
 
-**Week 3**
+**Week 4**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
 | No Class | | | | |
 | 2/17: Exploratory Data Analysis I | [Chapter 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)| | | |
 | 2/19: Explorartory Data Analysis II | [Chapter 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)| | | |
+
+**Week 5**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 2/22: Case Study #1 in-class group-work | | | | |
+| 2/24: Case Study #1 lab | | | | |
+| 2/26: Case Study #1 presentations | | | | |
  
  
  ### Important USF Dates
