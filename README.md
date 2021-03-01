@@ -76,16 +76,28 @@ Recorded lectures are available to enrolled students. If you are unable to atten
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
 | No Class | | | | |
-| 2/17: Exploratory Data Analysis I | [Chapter 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)| | | |
-| 2/19: Explorartory Data Analysis II | [Chapter 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)| | | |
+| 2/17: [Exploratory Data Analysis I](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Slides/Feb17Slides_EDA.pdf) | [Chapter 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)| | | |
+| 2/19: Explorartory Data Analysis II | [Chapter 7](https://r4ds.had.co.nz/exploratory-data-analysis.html)| | |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Feb19Notebook_import_explore.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Feb19Notebook_import_explore.pdf)|
 
 **Week 5**
+
+Case Study Option 1 (Pokemon Dataset): [Assignment](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/CaseStudy1_P.pdf), [Data](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Data/pokemon_cleaned.csv)
+
+Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/CaseStudy1_H.pdf), [Data](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Data/AB_NYC_2019.csv)
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
 | 2/22: Case Study #1 in-class group-work | | | | |
 | 2/24: Case Study #1 lab | | | | |
 | 2/26: Case Study #1 presentations | | | | |
+
+**Week 6**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 3/1: Data Structures I | [Sections 20.1 - 20.3](https://r4ds.had.co.nz/vectors.html)| | | |
+| 3/3: Data Structures II | [Sections 20.4 - 20.5](https://r4ds.had.co.nz/vectors.html#using-atomic-vectors)| | | |
+| 3/5: Data Structures III | [Sections 20.6, 20.7](https://r4ds.had.co.nz/vectors.html#attributes), [Ch 10](https://r4ds.had.co.nz/tibbles.html) | | |
  
  
  ### Important USF Dates
