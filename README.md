@@ -98,6 +98,14 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
 | 3/1: Data Structures I | [Sections 20.1 - 20.3](https://r4ds.had.co.nz/vectors.html)| | | |
 | 3/3: Data Structures II | [Sections 20.4 - 20.5](https://r4ds.had.co.nz/vectors.html#using-atomic-vectors)| | | |
 | 3/5: Data Structures III | [Sections 20.6, 20.7](https://r4ds.had.co.nz/vectors.html#attributes), [Ch 10](https://r4ds.had.co.nz/tibbles.html) | | |
+
+**Week 7**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 3/1: Data Import/Export | [Chapter 11](https://r4ds.had.co.nz/data-import.html)| | | |
+| 3/3: Tidy Data I | [Sections 12.1 - 12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)| | | |
+| 3/5: Tiday Data II | [Sections 12.4 - 12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting)) | | |
  
  
  ### Important USF Dates
