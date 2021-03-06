@@ -105,7 +105,7 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
  | :---  | :---:  | :---:  | :---:  | :---: |
 | 3/1: Data Import/Export | [Chapter 11](https://r4ds.had.co.nz/data-import.html)| | | |
 | 3/3: Tidy Data I | [Sections 12.1 - 12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)| | | |
-| 3/5: Tiday Data II | [Sections 12.4 - 12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting)) | | |
+| 3/5: Tiday Data II | [Sections 12.4 - 12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting) | | |
  
  
  ### Important USF Dates
