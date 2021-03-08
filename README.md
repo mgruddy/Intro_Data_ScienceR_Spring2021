@@ -97,15 +97,15 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
  | :---  | :---:  | :---:  | :---:  | :---: |
 | 3/1: Data Structures I | [Sections 20.1 - 20.3](https://r4ds.had.co.nz/vectors.html)| | |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/March1Notebook_Data_Structures_I.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/March1Notebook_Data_Structures_I.pdf)|
 | 3/3: Data Structures II | [Sections 20.4 - 20.5](https://r4ds.had.co.nz/vectors.html#using-atomic-vectors)| | |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/March3Notebook_Data_Structures_II.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/March3Notebook_Data_Structures_II.pdf)|
-| 3/5: Data Structures III | [Sections 20.6, 20.7](https://r4ds.had.co.nz/vectors.html#attributes), [Ch 10](https://r4ds.had.co.nz/tibbles.html) | | |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/March5Notebook_Data_Structures_III.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/March5Notebook_Data_Structures_III.pdf)|
+| 3/5: Data Structures III | [Sections 20.6, 20.7](https://r4ds.had.co.nz/vectors.html#attributes), [Ch 10](https://r4ds.had.co.nz/tibbles.html) | [HW6](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW6.pdf) | 3/12 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/March5Notebook_Data_Structures_III.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/March5Notebook_Data_Structures_III.pdf)|
 
 **Week 7**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 3/8: Data Import/Export | [Chapter 11](https://r4ds.had.co.nz/data-import.html)| [HW6](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW6.pdf) | 3/12 | |
+| 3/8: Data Import/Export | [Chapter 11](https://r4ds.had.co.nz/data-import.html)| [HW7](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW7.pdf) | 3/12 | |
 | 3/10: Tidy Data I | [Sections 12.1 - 12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)| | | |
-| 3/12: Tiday Data II | [Sections 12.4 - 12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting) | [HW7](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW7.pdf) | 3/26 | | 
+| 3/12: Tiday Data II | [Sections 12.4 - 12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting) | HW8 | 3/26 | | 
  
  **Week 8**
  
