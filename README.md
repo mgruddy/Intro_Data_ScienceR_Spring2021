@@ -103,10 +103,45 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 3/1: Data Import/Export | [Chapter 11](https://r4ds.had.co.nz/data-import.html)| [HW6](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW6.pdf) | 3/12 | |
-| 3/3: Tidy Data I | [Sections 12.1 - 12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)| | | |
-| 3/5: Tiday Data II | [Sections 12.4 - 12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting) | [HW7](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW7.pdf) | 3/26 | | 
+| 3/8: Data Import/Export | [Chapter 11](https://r4ds.had.co.nz/data-import.html)| [HW6](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW6.pdf) | 3/12 | |
+| 3/10: Tidy Data I | [Sections 12.1 - 12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)| | | |
+| 3/12: Tiday Data II | [Sections 12.4 - 12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting) | [HW7](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW7.pdf) | 3/26 | | 
  
+ **Week 8**
+ 
+ Spring Break!
+ 
+ **Week 9**
+ 
+ | Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 3/22: Relational Data I | | | | |
+| 3/24: Relational Data II | | | | |
+| 3/26: Factors & Dates I | | | | |
+
+**Week 10**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 3/29: Factors & Dates II | | | | |
+| 3/31: Missing Values and Imputation | | | | |
+| 4/2: No Class | | | | |
+
+**Week 11**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 2/5: Case Study #2 in-class group-work | | | | |
+| 2/7: Case Study #2 lab | | | | |
+| 2/9: Case Study #2 presentations | | | | |
+
+**Week 12**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 2/5: Functional Programming I | | | | |
+| 2/7: Functional Programming II | | | | |
+| 2/9: Functional Programming III | | | | |
  
  ### Important USF Dates
  
