@@ -115,9 +115,9 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
  
  | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 3/22: Relational Data I | | | | |
+| 3/22: Relational Data I | [Chapter 13](https://r4ds.had.co.nz/relational-data.html) | | | |
 | 3/24: Relational Data II | | | | |
-| 3/26: Factors & Dates I | | | | |
+| 3/26: Factors & Dates I | [Chapters 15](https://r4ds.had.co.nz/factors.html), [16](https://r4ds.had.co.nz/dates-and-times.html) | | | |
 
 **Week 10**
 
@@ -139,7 +139,7 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 2/5: Functional Programming I | | | | |
+| 2/5: Functional Programming I | [Chapter 19](https://r4ds.had.co.nz/functions.html) | | | |
 | 2/7: Functional Programming II | | | | |
 | 2/9: Functional Programming III | | | | |
  
