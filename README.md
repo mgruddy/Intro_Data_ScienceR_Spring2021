@@ -81,9 +81,9 @@ Recorded lectures are available to enrolled students. If you are unable to atten
 
 **Week 5**
 
-Case Study Option 1 (Pokemon Dataset): [Assignment](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/CaseStudy1_P.pdf), [Data](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Data/pokemon_cleaned.csv)
+Case Study Option 1 (Pokemon Dataset): [Assignment](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/CaseStudy1_P.pdf), [Data](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Data/pokemon_cleaned.csv) from [here](https://www.kaggle.com/rounakbanik/pokemon)
 
-Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/CaseStudy1_H.pdf), [Data](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Data/AB_NYC_2019.csv)
+Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/CaseStudy1_H.pdf), [Data](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Data/AB_NYC_2019.csv) from [here](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
