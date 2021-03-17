@@ -123,8 +123,8 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 3/29: Factors & Dates I | [Chapters 15](https://r4ds.had.co.nz/factors.html), [16](https://r4ds.had.co.nz/dates-and-times.html) | | | |
-| 3/31: Factors & Dates II | | | | |
+| 3/29: Factors | [Chapter 15](https://r4ds.had.co.nz/factors.html) | | | |
+| 3/31: Dates and Times | [Chapter 16](https://r4ds.had.co.nz/dates-and-times.html) | | | |
 | 4/2: No Class | | | | |
 
 **Week 11**
