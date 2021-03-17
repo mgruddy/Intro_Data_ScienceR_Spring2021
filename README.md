@@ -147,24 +147,24 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 4/19:  |  | | | |
-| 4/21:  | | | | |
-| 4/23:  | | | | |
+| 4/19: Modeling Basics | [Chapters 22](https://r4ds.had.co.nz/model-intro.html), [23](https://r4ds.had.co.nz/model-basics.html) | | | |
+| 4/21: Modelling in R I | | | | |
+| 4/23: Modelling in R II | | | | |
 
 **Week 14**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 4/26: |  | | | |
-| 4/28:   | | | | |
-| 4/30: | | | | |
+| 4/26: Machine Learning Concepts |  | | | |
+| 4/28: Linear Regression I | | | | |
+| 4/30: Linear Regression II | | | | |
 
 **Week 15**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 5/3: |  | | | |
-| 5/5:   | | | | |
+| 5/3: What is Deep Learning? |  | | | |
+| 5/5: Your Next Steps | | | | |
 | 5/7:  Case Study #3 in-class group-work | | | | |
  
  
