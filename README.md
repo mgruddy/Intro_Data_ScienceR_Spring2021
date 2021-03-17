@@ -115,33 +115,66 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
  
  | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 3/22: Relational Data I | [Chapter 13](https://r4ds.had.co.nz/relational-data.html) | | | |
+| 3/22: Relational Data I | [Chapter 13](https://r4ds.had.co.nz/relational-data.html) | Final Project Group/Topic | 3/31 | |
 | 3/24: Relational Data II | | | | |
-| 3/26: Factors & Dates I | [Chapters 15](https://r4ds.had.co.nz/factors.html), [16](https://r4ds.had.co.nz/dates-and-times.html) | | | |
+| 3/26: Relational Data III | | | | |
 
 **Week 10**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 3/29: Factors & Dates II | | | | |
-| 3/31: Missing Values and Imputation | | | | |
+| 3/29: Factors & Dates I | [Chapters 15](https://r4ds.had.co.nz/factors.html), [16](https://r4ds.had.co.nz/dates-and-times.html) | | | |
+| 3/31: Factors & Dates II | | | | |
 | 4/2: No Class | | | | |
 
 **Week 11**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 2/5: Case Study #2 in-class group-work | | | | |
-| 2/7: Case Study #2 lab | | | | |
-| 2/9: Case Study #2 presentations | | | | |
+| 4/5: Case Study #2 in-class group-work | | | | |
+| 4/7: Case Study #2 lab | | | | |
+| 4/9: Case Study #2 presentations | | | | |
 
 **Week 12**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 2/5: Functional Programming I | [Chapter 19](https://r4ds.had.co.nz/functions.html) | | | |
-| 2/7: Functional Programming II | | | | |
-| 2/9: Functional Programming III | | | | |
+| 4/12: Functional Programming I | [Chapter 19](https://r4ds.had.co.nz/functions.html) | Final Project Description | 5/5 | |
+| 4/14: Functional Programming II | | | | |
+| 4/16: Functional Programming III | | | | |
+
+**Week 13**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 4/19:  |  | | | |
+| 4/21:  | | | | |
+| 4/23:  | | | | |
+
+**Week 14**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 4/26: |  | | | |
+| 4/28:   | | | | |
+| 4/30: | | | | |
+
+**Week 15**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 5/3: |  | | | |
+| 5/5:   | | | | |
+| 5/7:  Case Study #3 in-class group-work | | | | |
+ 
+ 
+ **Week 16**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 5/10:  Case Study #3 lab |  | | | |
+| 5/12:  Case Study #3 presentations | | | | |
+| 5/14: No Class | | | | |
  
  ### Important USF Dates
  
