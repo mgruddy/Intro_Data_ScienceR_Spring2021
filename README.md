@@ -139,9 +139,9 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 4/12: Functional Programming I | [Chapter 19](https://r4ds.had.co.nz/functions.html) | Final Project Description | 5/5 | |
-| 4/14: Functional Programming II | | | | |
-| 4/16: Functional Programming III | | | | |
+| 4/12: Programming in R I | [Chapter 19](https://r4ds.had.co.nz/functions.html) | Final Project Description | 5/5 | |
+| 4/14: Programming in R II | | | | |
+| 4/16: Programming in R III | | | | |
 
 **Week 13**
 
