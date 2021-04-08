@@ -103,9 +103,9 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 3/8: Data Import/Export | [Chapter 11](https://r4ds.had.co.nz/data-import.html)| [HW7](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW7.pdf) | 3/12 | |
-| 3/10: Tidy Data I | [Sections 12.1 - 12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)| | | |
-| 3/12: Tiday Data II | [Sections 12.4 - 12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting) | HW8 | 3/26 | | 
+| 3/8: Data Import/Export | [Chapter 11](https://r4ds.had.co.nz/data-import.html)| [HW7](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW7.pdf) | 3/12 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/March8Notebook_Data_Import_Export.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/March8Notebook_Data_Import_Export.pdf)|
+| 3/10: Tidy Data I | [Sections 12.1 - 12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)| | |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar10Notebook_Tidy_Data_I.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar10Notebook_Tidy_Data_I.pdf)|
+| 3/12: Tidy Data II | [Sections 12.4 - 12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting) | [HW8](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW8.pdf) | 3/26 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar12Notebook_Tidy_Data_II.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar12Notebook_Tidy_Data_II.pdf)| 
  
  **Week 8**
  
@@ -115,33 +115,68 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
  
  | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 3/22: Relational Data I | [Chapter 13](https://r4ds.had.co.nz/relational-data.html) | | | |
-| 3/24: Relational Data II | | | | |
-| 3/26: Factors & Dates I | [Chapters 15](https://r4ds.had.co.nz/factors.html), [16](https://r4ds.had.co.nz/dates-and-times.html) | | | |
+| 3/22: Relational Data I | [Chapter 13](https://r4ds.had.co.nz/relational-data.html) | Final Project Group/Topic | 3/31 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar22Notebook_Relational_Data_I.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar22Notebook_Relational_Data_I.pdf)|
+| 3/24: Relational Data II | | | |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar24Notebook_Relational_Data_II.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar24Notebook_Relational_Data_II.pdf)|
+| 3/26: Relational Data III | |[HW9](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW9.pdf)| 4/2 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar26Notebook_Relational_Data_III.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar26Notebook_Relational_Data_III.pdf)|
 
 **Week 10**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 3/29: Factors & Dates II | | | | |
-| 3/31: Missing Values and Imputation | | | | |
+| 3/29: Factors | [Chapter 15](https://r4ds.had.co.nz/factors.html) | | |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar29Notebook_Factors.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar29Notebook_Factors.pdf)|
+| 3/31: Dates and Times | [Chapter 16](https://r4ds.had.co.nz/dates-and-times.html) | | |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar31Notebook_Dates_and_Times.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Mar31Notebook_Dates_and_times.pdf)|
 | 4/2: No Class | | | | |
 
 **Week 11**
 
+Case Study 2: [Assignment](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/CaseStudy2.pdf), [Data](https://www.kaggle.com/paultimothymooney/zillow-house-price-data)
+
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 2/5: Case Study #2 in-class group-work | | | | |
-| 2/7: Case Study #2 lab | | | | |
-| 2/9: Case Study #2 presentations | | | | |
+| 4/5: Case Study #2 in-class group-work | | | | |
+| 4/7: Case Study #2 lab | | | | |
+| 4/9: Case Study #2 presentations | | | | |
 
 **Week 12**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 2/5: Functional Programming I | [Chapter 19](https://r4ds.had.co.nz/functions.html) | | | |
-| 2/7: Functional Programming II | | | | |
-| 2/9: Functional Programming III | | | | |
+| 4/12: Programming in R I | [Chapter 19](https://r4ds.had.co.nz/functions.html) | Final Project Description | 5/5 | |
+| 4/14: Programming in R II | | | | |
+| 4/16: Programming in R III | | HW10 | 4/23 | |
+
+**Week 13**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 4/19: Modeling Basics | [Chapters 22](https://r4ds.had.co.nz/model-intro.html), [23](https://r4ds.had.co.nz/model-basics.html) | | | |
+| 4/21: Modelling in R I | | | | |
+| 4/23: Modelling in R II | | HW11 | 4/30 | |
+
+**Week 14**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 4/26: Machine Learning Concepts |  | | | |
+| 4/28: Linear Regression I | | | | |
+| 4/30: Linear Regression II | | HW12 | 5/7 | |
+
+**Week 15**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 5/3: What is Deep Learning? |  | | | |
+| 5/5: Your Next Steps | | | | |
+| 5/7:  Case Study #3 in-class group-work | | | | |
+ 
+ 
+ **Week 16**
+
+| Topic | Reading | Assignment | Due Date | In Class Code |
+ | :---  | :---:  | :---:  | :---:  | :---: |
+| 5/10:  Case Study #3 lab |  | | | |
+| 5/12:  Case Study #3 presentations | | | | |
+| 5/14: No Class | | | | |
  
  ### Important USF Dates
  
