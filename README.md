@@ -101,6 +101,8 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
 
 **Week 7**
 
+HW8 Datasets: [patient_info.csv](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Data/patient_info.csv), [us_presidents.csv](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Data/us_presidents.csv), [pokemon2.csv](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Data/pokemon2.csv) adapated from [here](https://www.kaggle.com/rounakbanik/pokemon), and [mlb_data.csv](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Data/mlb_data.csv) from [here](https://www.baseball-reference.com/leagues/MLB/index.shtml)
+
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
 | 3/8: Data Import/Export | [Chapter 11](https://r4ds.had.co.nz/data-import.html)| [HW7](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW7.pdf) | 3/12 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/March8Notebook_Data_Import_Export.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/March8Notebook_Data_Import_Export.pdf)|
@@ -112,6 +114,8 @@ Case Study Option 2 (NYC AirBnB 2019 Dataset): [Assignment](https://github.com/m
  Spring Break!
  
  **Week 9**
+ 
+ HW9 Datasets can be found [here](https://www.kaggle.com/nathanlauga/nba-games).
  
  | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
