@@ -1,0 +1,15 @@
+patient_id;treatment;side_effects;outcome
+1;A;TRUE;1,2
+2;A;TRUE;3,3
+3;A;TRUE;0,9
+4;A;FALSE;5,1
+5;A;TRUE;1,02
+6;A;TRUE;2
+7;A;FALSE;1,1
+8;B;FALSE;1,03
+9;B;FALSE;3,4
+10;B;TRUE;2,3
+11;B;FALSE;0,8
+12;A;TRUE;0,75
+13;B;FALSE;2
+14;A;FALSE;4,6
