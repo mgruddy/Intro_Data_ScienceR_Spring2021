@@ -153,17 +153,17 @@ Case Study 2: [Assignment](https://github.com/mgruddy/Intro_Data_ScienceR_Spring
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 4/19: Modeling Basics | [Chapters 22](https://r4ds.had.co.nz/model-intro.html), [23](https://r4ds.had.co.nz/model-basics.html) | | | |
-| 4/21: Modelling in R I | | | | |
-| 4/23: Modelling in R II | | HW11 | 4/30 | |
+| 4/19: Modeling in R I | [Chapters 22](https://r4ds.had.co.nz/model-intro.html), [23](https://r4ds.had.co.nz/model-basics.html) | | | |
+| 4/21: Modelling in R II | | | | |
+| 4/23: Modelling in R III | | HW11 | 4/30 | |
 
 **Week 14**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 4/26: Machine Learning Concepts |  | | | |
-| 4/28: Linear Regression I | | | | |
-| 4/30: Linear Regression II | | HW12 | 5/7 | |
+| 4/26: Machine Learning |  | | | |
+| 4/28: Binary Classification | | | | |
+| 4/30: Binary Classification in R | | HW12 | 5/7 | |
 
 **Week 15**
 
