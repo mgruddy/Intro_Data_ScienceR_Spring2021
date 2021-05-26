@@ -145,9 +145,9 @@ Case Study 2: [Assignment](https://github.com/mgruddy/Intro_Data_ScienceR_Spring
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 4/12: Programming in R I | [Chapters 19](https://r4ds.had.co.nz/functions.html), [21](https://r4ds.had.co.nz/iteration.html) | Final Project Description | 5/5 | |
-| 4/14: Programming in R II | | | | |
-| 4/16: Programming in R III | | HW10 | 4/23 | |
+| 4/12: Programming in R I | [Chapters 19](https://r4ds.had.co.nz/functions.html), [21](https://r4ds.had.co.nz/iteration.html) | Final Project Description | 5/5 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/NotebooksApr12Notebook_Programming_I.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr12Notebook_Programming_I.pdf)|
+| 4/14: Programming in R II | | | |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr14Notebook_Programming_II.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr14Notebook_Programming_II.pdf)|
+| 4/16: Programming in R III | | HW10 | 4/23 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr16Notebook_Programming_III.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr16Notebook_Programming_III.pdf)|
 
 **Week 13**
 
