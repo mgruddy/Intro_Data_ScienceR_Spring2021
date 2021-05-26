@@ -159,8 +159,6 @@ Case Study 2: [Assignment](https://github.com/mgruddy/Intro_Data_ScienceR_Spring
 
 **Week 14**
 
-[Data visualization & ggplot2](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Slides/Feb1Slides_DV1.pdf)
-
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
 | 4/26: [Machine Learning](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Slides/Apr26Slides_MachineLearning.pdf) |  | | | |
@@ -168,6 +166,8 @@ Case Study 2: [Assignment](https://github.com/mgruddy/Intro_Data_ScienceR_Spring
 | 4/30: Binary Classification in R | | [HW12](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW12.pdf) | 5/7 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr30Notebook_Binary_Classification.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr30Notebook_Binary_Classification.pdf)|
 
 **Week 15**
+
+Case Study 3: [Assignment](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/CaseStudy3.pdf), [Data](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
