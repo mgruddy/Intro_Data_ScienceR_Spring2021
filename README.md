@@ -145,32 +145,34 @@ Case Study 2: [Assignment](https://github.com/mgruddy/Intro_Data_ScienceR_Spring
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 4/12: Programming in R I | [Chapters 19](https://r4ds.had.co.nz/functions.html), [21](https://r4ds.had.co.nz/iteration.html) | Final Project Description | 5/5 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/NotebooksApr12Notebook_Programming_I.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr12Notebook_Programming_I.pdf)|
+| 4/12: Programming in R I | [Chapters 19](https://r4ds.had.co.nz/functions.html), [21](https://r4ds.had.co.nz/iteration.html) | Final Project Description | 5/5 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr12Notebook_Programming_I.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr12Notebook_Programming_I.pdf)|
 | 4/14: Programming in R II | | | |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr14Notebook_Programming_II.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr14Notebook_Programming_II.pdf)|
-| 4/16: Programming in R III | | HW10 | 4/23 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr16Notebook_Programming_III.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr16Notebook_Programming_III.pdf)|
+| 4/16: Programming in R III | | [HW10](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW10.pdf) | 4/23 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr16Notebook_Programming_III.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr16Notebook_Programming_III.pdf)|
 
 **Week 13**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 4/19: Modeling in R I | [Chapters 22](https://r4ds.had.co.nz/model-intro.html), [23](https://r4ds.had.co.nz/model-basics.html) | | | |
-| 4/21: Modelling in R II | | | | |
-| 4/23: Modelling in R III | | HW11 | 4/30 | |
+| 4/19: Modeling in R I | [Chapters 22](https://r4ds.had.co.nz/model-intro.html), [23](https://r4ds.had.co.nz/model-basics.html) | | | [Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr19Notebook_Modelling_I.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr19Notebook_Modelling_I.pdf)|
+| 4/21: Modelling in R II | | | | [Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr21Notebook_Modelling_II.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr21Notebook_Modelling_II.pdf)|
+| 4/23: Modelling in R III | | [HW11](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW11.pdf) | 4/30 | [Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr23Notebook_Modelling_III.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr23Notebook_Modelling_III.pdf)|
 
 **Week 14**
 
+[Data visualization & ggplot2](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Slides/Feb1Slides_DV1.pdf)
+
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 4/26: Machine Learning |  | | | |
-| 4/28: Binary Classification | | | | |
-| 4/30: Binary Classification in R | | HW12 | 5/7 | |
+| 4/26: [Machine Learning](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Slides/Apr26Slides_MachineLearning.pdf) |  | | | |
+| 4/28: [Binary Classification](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Slides/Apr28Slides_BinaryClassification.pdf) | | | | |
+| 4/30: Binary Classification in R | | [HW12](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Assignments/HW12.pdf) | 5/7 |[Notebook](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr30Notebook_Binary_Classification.ipynb), [pdf](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Notebooks/Apr30Notebook_Binary_Classification.pdf)|
 
 **Week 15**
 
 | Topic | Reading | Assignment | Due Date | In Class Code |
  | :---  | :---:  | :---:  | :---:  | :---: |
-| 5/3: What is Deep Learning? |  | | | |
-| 5/5: Your Next Steps | | | | |
+| 5/3: [What is Deep Learning?](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Slides/May3Slides_DeepLearning.pdf) |  | | | |
+| 5/5: [Your Next Steps](https://github.com/mgruddy/Intro_Data_ScienceR_Spring2021/blob/main/Slides/MaySlides_NextSteps.pdf) | | | | |
 | 5/7:  Case Study #3 in-class group-work | | | | |
  
  
